@@ -7,4 +7,4 @@
 - 🔨 Proficient in the latest tools and technologies
 - 📈 Helps businesses use the latest technologies to optimize their operations
 - 💡 Always looking for new ideas and ways to improve applications
-- 👨‍💼 Proud to share my knowledge and experience with the community.
+- 👨‍💼 Proud to share my knowledge and experience with the community
