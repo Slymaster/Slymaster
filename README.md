@@ -2,10 +2,9 @@
 - 💻 Experienced in making smart contracts and proficient in development tools for their creation
 - 📈 Helps businesses use blockchain technology to optimize their operations
 - 💡 Always looking for new ideas and ways to improve smart contracts
-- 👨‍💼 Proud to share my knowledge and experience with the community
 - 💻 Expert in Java development on the Spring framework
-- 🏆 Several years of experience in developing high-performance applications with Spring
-- 🔨 Proficient in the latest tools and technologies for Spring development
+- 🏆 Several years of experience in developing high-performance application
+- 🔨 Proficient in the latest tools and technologies
 - 📈 Helps businesses use the latest technologies to optimize their operations
-- 💡 Always looking for new ideas and ways to improve applications with Spring
+- 💡 Always looking for new ideas and ways to improve applications
 - 👨‍💼 Proud to share my knowledge and experience with the community.
