@@ -43,4 +43,4 @@ An architecture study covering EVM/L2 ingestion, chain reorganizations, Kafka or
 
 **Languages:** French · English · Spanish
 
-[LinkedIn](https://www.linkedin.com/in/sylvain-rey/) · [Email](mailto:sylvain.rey.pro@protonmail.com)
+[Email](mailto:sylvain.rey.pro@protonmail.com)
